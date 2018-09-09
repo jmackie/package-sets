@@ -749,7 +749,7 @@
       "web-html"
     ],
     "repo": "https://github.com/slamdata/purescript-halogen-vdom.git",
-    "version": "v3.0.0"
+    "version": "v4.0.0"
   },
   "hedwig": {
     "dependencies": [
@@ -1650,6 +1650,30 @@
     ],
     "repo": "https://github.com/owickstrom/purescript-spec-quickcheck.git",
     "version": "v3.0.0"
+  },
+  "spork": {
+    "dependencies": [
+      "aff",
+      "arrays",
+      "console",
+      "dom-indexed",
+      "effect",
+      "foldable-traversable",
+      "foreign",
+      "halogen-vdom",
+      "maybe",
+      "ordered-collections",
+      "prelude",
+      "refs",
+      "tailrec",
+      "unsafe-reference",
+      "web-dom",
+      "web-events",
+      "web-html",
+      "web-uievents"
+    ],
+    "repo": "https://github.com/natefaubion/purescript-spork.git",
+    "version": "v1.0.0"
   },
   "st": {
     "dependencies": [
